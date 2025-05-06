@@ -11,4 +11,4 @@ If the current node value matches the expected value (parent.val + 1), we increa
 
 Otherwise, reset the length to 1.
 
-maxLength keeps track of the longest path found during traversal.
+maxLength keeps track of the longest path found during traversal....
